@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+    color: black;
+    font-family: font-family: "Merriweather", serif;;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: azure;
+    color: white;
+    font-family: font-family: "Merriweather", serif;;
+
+}
